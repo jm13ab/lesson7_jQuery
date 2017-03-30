@@ -4,19 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+March 31, 2017
 ### Student Name:  
-(First and Last Name)
-
+Justin Morris
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+Using jQuery to easily add javascript elements to my page.
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that jQuery is a library of Javascript code
+2. jQuery uses existing code as a framework
+3. jQuery is an easy and great way to add interactive elements to a page
